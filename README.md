@@ -15,9 +15,9 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/pasindu-isuranaga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasindu-isuranaga" height="30" width="40" /></a>
-<a href="https://discord.gg/pasindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pasindu" height="30" width="40" /></a>
-<a href="https://twitter.com/pasinduisuranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pasinduisuranga" height="30" width="40" /></a>
-<a href="https://instagram.com/pasindu.isuranaga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pasindu.isuranaga" height="30" width="40" /></a>
+<a href="https://discord.gg/pasindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rocky.2440" height="30" width="40" /></a>
+<a href="https://x.com/Pasidu_isuranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pasinduisuranga" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pasindu_isuranga_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pasindu_isuranga_" height="30" width="40" /></a>
 <a href="mailto:nanayaktarap93@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="30" width="30" /></a>
 </p>
 
