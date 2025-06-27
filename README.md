@@ -1,80 +1,134 @@
-# Hi there, I'm Pasindu Isuranga 👋
+<div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=pasinduisuranga&color=blue&style=flat-square&label=Profile+views)
+# 🌟 Pasindu Isuranga
+### Full-Stack Developer | Tech Innovator | Open Source Enthusiast
 
-[![Website](https://img.shields.io/badge/pasinduisuranga.live-UP-brightgreen)](https://pasinduisuranga.live) [![Follow](https://img.shields.io/badge/FOLLOW-@PASINDUISURANGA-blue)](https://github.com/pasinduisuranga)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Universe+%F0%9F%9A%80;Full-Stack+Developer+%F0%9F%92%BB;Founder+%40+C+Solution+%F0%9F%8F%A2;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
-## I'm a Student, Developer, and Tech Enthusiast!!
+<br>
 
-- 🔭 I'm currently learning everything
-- 🎯 2026 Goals: Become a good developer and contribute more to Open Source projects
-- 🎓 Pearson UK HND Level Undergraduate @ Esoft Metro Campus Galle
-- 💼 Founder @ C Solution
+[![Profile Views](https://komarev.com/ghpvc/?username=pasinduisuranga&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/pasinduisuranga)
+[![Website](https://img.shields.io/badge/🌐_Website-pasinduisuranga.live-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pasinduisuranga.live)
+[![Follow](https://img.shields.io/badge/Follow-@pasinduisuranga-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pasinduisuranga)
 
-## Connect with me:
-
-<p align="left">
-<a href="https://www.linkedin.com/in/pasindu-isuranaga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasindu-isuranaga" height="30" width="40" /></a>
-<a href="https://discord.gg/pasindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rocky.2440" height="30" width="40" /></a>
-<a href="https://x.com/Pasidu_isuranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pasinduisuranga" height="30" width="40" /></a>
-<a href="https://www.instagram.com/pasindu_isuranga_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pasindu_isuranga_" height="30" width="40" /></a>
-<a href="mailto:nanayaktarap93@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="30" width="30" /></a>
-<a href="https://youtube.com/@SLCode_X" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-</p>  
-
- <B>Languages and Tools:</b>
-
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
-</p>
-<p align="left">
-        <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/></a>
-        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/></a>
-        <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
-        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="50" height="50"/></a>
-</p>
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pasinduisuranga&show_icons=true&locale=en&theme=dark" alt="pasinduisuranga" />
-</p>
-<p align="center">  
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasinduisuranga&theme=dark" alt="pasinduisuranga" />
-</p>
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pasinduisuranga&show_icons=true&locale=en&layout=compact&theme=dark" alt="pasinduisuranga" />
-</p>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
----
+```typescript
+const pasindu = {
+  code: ["JavaScript", "Java", "Python", "C#", "PHP"],
+  askMeAbout: ["Web Dev", "Tech", "App Dev", "Database Design"],
+  currentFocus: "Building scalable applications",
+  education: "HND @ Esoft Metro Campus Galle",
+  company: "Founder @ C Solution",
+  funFact: "I debug with console.log and I'm proud of it!"
+};
+```
 
-<p align="center">
-<a href="https://github.com/pasinduisuranga">
-  <img src="https://github-profile-trophy.vercel.app/?username=pasinduisuranga&theme=darkhub&no-frame=true&margin-w=15" />
-</a>
-</p>
-
----
-
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pasinduisuranga&theme=react-dark&hide_border=true" />
-</p>
+- 🔭 **Currently Learning:** Everything that sparks my curiosity
+- 🎯 **2026 Goals:** Master full-stack development & contribute to major OSS projects
+- 🎓 **Education:** Pearson UK HND Level @ Esoft Metro Campus Galle
+- 💼 **Founder:** C Solution - Solving real-world problems with code
+- 🌱 **Philosophy:** Code is poetry, bugs are just plot twists
+- ⚡ **Fun Fact:** I can solve a Rubik's cube while thinking about algorithms
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 🎨 Frontend Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma&theme=dark" />
 </p>
+
+### ⚙️ Backend & Languages  
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,php,cs,mysql&theme=dark" />
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,windows&theme=dark" />
+</p>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pasinduisuranga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pasinduisuranga&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+
+</td>
+</tr>
+</table>
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasinduisuranga&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=pasinduisuranga&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pasinduisuranga&custom_title=Pasindu's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pasindu-isuranaga/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Pasidu_isuranga)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pasindu_isuranga_/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@SLCode_X)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pasindu)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nanayaktarap93@gmail.com)
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Random Dev Quote" />
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 "Turning Coffee into Code, One Commit at a Time" ☕
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+
+</div>
