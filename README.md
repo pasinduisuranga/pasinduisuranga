@@ -55,7 +55,7 @@ const pasindu = {
 
 ### 🔧 Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux,cloudflare,ubuntu,googlecloud&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux,cloudflare,ubuntu,googlecloud,yarn&theme=dark" />
 </p>
 
 </div>
