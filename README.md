@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif">
 
 ```typescript
 const pasindu = {
@@ -38,6 +38,7 @@ const pasindu = {
 - ⚡ **Fun Fact:** I can solve a Rubik's cube while thinking about algorithms
 
 ---
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" height="300">
 
 ## 🛠️ Tech Arsenal
 
