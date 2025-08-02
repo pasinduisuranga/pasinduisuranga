@@ -112,6 +112,8 @@ const pasindu = {
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@SLCode_X)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pasindu)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nanayaktarap93@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nanayaktarap93@gmail.com)
+
 
 </div>
 
