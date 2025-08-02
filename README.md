@@ -8,7 +8,7 @@
 <br>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=pasinduisuranga&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/pasinduisuranga)
-[![Website](https://img.shields.io/badge/🌐_Website-pasinduisuranga.live-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codexsrilanka.tech/Index.html)
+[![Website](https://img.shields.io/badge/🌐_Website-pasinduisuranga.live-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.pasinduisuranga.me)
 [![Follow](https://img.shields.io/badge/Follow-@pasinduisuranga-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pasinduisuranga)
 
 </div>
